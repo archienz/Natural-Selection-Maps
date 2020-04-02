@@ -1,0 +1,35 @@
+=================
+BHOP_SKILL BETA 6
+=================
+
+STANDARD INFORMATION
+--------------------
+- Title: 		Skill
+- Filename: 		bhop_skill_b6.bsp
+- First Release:	May 2009
+- Latest Release:	May 2014
+- Author: 		Peter Sam aka Zerotech
+- Email Address:        petersam1980@gmail.com    	
+
+
+MAP INFORMATION
+---------------
+Game:			Natural Selection (http://www.natural-selection.org)
+Status:			Beta6
+Entities:		589
+Editor:			Valve Hammer Editor
+Compiler(s) used:	ZHLT 3.4 x64
+Compile Hardware:	Intel Core i7 3.4Ghz, 8 GB RAM
+Compile Time:		2 mins
+
+
+CREDITS
+-----------------------------
+- Unknown Worlds for the Textures
+- Valve Corp. for the Engine
+
+
+SPECIAL THANKS
+--------------
+- Archie for playtesting and Feedback
+- ^Cal^ for playtesting
